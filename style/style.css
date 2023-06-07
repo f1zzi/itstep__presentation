@@ -12,7 +12,7 @@
 
 .intro {
   height: 100vh;
-  background-image: url(/images/back__shape.png);
+  background-image: url("images/back__shape.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
